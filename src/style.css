@@ -1,0 +1,21 @@
+.dropdown {
+    display: flex;
+}
+
+button {
+    height: 30px;
+    width: auto;
+    padding: 5px;
+    background-color: lightskyblue;
+    border: 1px solid white;
+    border-radius: 8px;
+}
+
+ul {
+    width: auto;
+    padding: 5px;
+    list-style-type: none;
+    background-color: lightskyblue;
+    border: 1px solid white;
+    border-radius: 8px;
+}
